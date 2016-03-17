@@ -1,0 +1,19 @@
+div#ghx-pool-column {
+  display: table !important;
+}
+
+div#ghx-column-header-group.ghx-column-header-group {
+  width: 100% !important;
+  position: relative !important;
+  top: 0 !important;
+  left: 0 !important;
+}
+
+div#ghx-work.ghx-work {
+  display: block !important;
+  overflow-x: scroll !important;
+}
+
+#ghx-pool {
+  padding: 0 !important;
+}
